@@ -1,3 +1,4 @@
 *.bak
 SuperSlicer.ini
 cache/
+ui_layout
